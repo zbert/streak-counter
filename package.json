@@ -5,7 +5,7 @@
     "type": "git",
     "url": "https://github.com/zbert/streak-counter"
   },
-  "author": "Rene hernandez <heyzber@yahoo.com>",
+  "author": "Rene hernandez <heyzbert@yahoo.com>",
   "license": "MIT",
   "type": "module",
   "types": "./dist/index.d.ts",

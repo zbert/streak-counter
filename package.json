@@ -23,9 +23,6 @@
     "dev": "microbundle watch",
     "test": "NODE_OPTIONS=--experimental-vm-modules jest"
   },
-  "dependencies": {
-    "@jsjoeio/streak-counter": "0.0.4"
-  },
   "devDependencies": {
     "@types/jest": "27.4.1",
     "@types/jsdom": "16.2.14",

@@ -1208,11 +1208,6 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@jsjoeio/streak-counter@0.0.4":
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/@jsjoeio/streak-counter/-/streak-counter-0.0.4.tgz#036719900f8c2913a7b37a6aef194c8a9b6572af"
-  integrity sha512-GH/HFS/aFDNyMwwa8WYhJ600SWatKS8ksBdvRqOgft3Lu481lhI8gTUp2VrjvZxHVRs8bCt9F6FdeFlbotJOZg==
-
 "@rollup/plugin-alias@^3.1.1":
   version "3.1.9"
   resolved "https://registry.yarnpkg.com/@rollup/plugin-alias/-/plugin-alias-3.1.9.tgz#a5d267548fe48441f34be8323fb64d1d4a1b3fdf"

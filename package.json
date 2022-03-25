@@ -13,7 +13,6 @@
   "exports": {
     "require": "./dist/index.cjs",
     "default": "./dist/index.modern.js"
-
   },
   "main": "./dist/index.cjs",
   "module": "./dist/index.module.js",
@@ -23,6 +22,7 @@
     "dev": "microbundle watch",
     "test": "NODE_OPTIONS=--experimental-vm-modules jest"
   },
+  "dependencies": {},
   "devDependencies": {
     "@types/jest": "27.4.1",
     "@types/jsdom": "16.2.14",
